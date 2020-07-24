@@ -17,6 +17,5 @@ that will ask you some coordiante unitl you type 501 501
 
 # Examples
 
-
-![](https://github.com/Holeryn/Triangulitation/blob/master/img/house.png)
 ![](https://github.com/Holeryn/Triangulitation/blob/master/img/octagon.png)
+![](https://github.com/Holeryn/Triangulitation/blob/master/img/house.png)
