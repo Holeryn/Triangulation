@@ -5,7 +5,7 @@ A Triangulation algorithm
 $ make all
 
 # How to execute
-There are to mode:
+There are two mode:
 
 $ ./triangulitation.o 0
 
