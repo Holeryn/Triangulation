@@ -1,4 +1,4 @@
-SRC_FILES = predicates.c triangulitation.c area.c include/gfx.c
+SRC_FILES = predicates.c triangulation.c area.c include/gfx.c
 CC_FLAGS = -g -Wall -Wextra -lX11
 CC = c99
 

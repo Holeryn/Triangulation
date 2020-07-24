@@ -1,4 +1,4 @@
-#include "triangulitation.h"
+#include "triangulation.h"
 
 #define GFX_WIDTH 500
 #define GFX_HEIGHT 500
