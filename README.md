@@ -1,5 +1,5 @@
-# Triangulitation
-A Triangulitation algorithm
+# Triangulation
+A Triangulation algorithm
 
 # How to compile
 $ make all
